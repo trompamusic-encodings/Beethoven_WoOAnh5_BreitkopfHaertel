@@ -50,7 +50,7 @@
                         <rend xml:id="rend-0000001631646837" halign="center" valign="middle" fontsize="100.00%">
                            <lb xml:id="lb-0000000495749949" />von</rend>
                         <rend xml:id="rend-0000001223265771" halign="center" valign="middle" fontsize="200.00%">
-                           <lb xml:id="lb-0000000931946442" />L.<rend xml:id="rend-0000000420181481" fontsize="130.00%"> VAN </rend> BEETHOVEN.<lb xml:id="lb-0000000931946802" />
+                           <lb xml:id="lb-0000000931946442" />L. <rend xml:id="rend-0000000420181481" fontsize="75.00%">VAN </rend> BEETHOVEN.<lb xml:id="lb-0000000931946802" />
                         </rend>
                         <rend xml:id="rend-0000002081006989" fontsize="20.00%">
                            <lb xml:id="lb-0000000072357948" /> <lb xml:id="lb-0000000933077864" />
@@ -118,7 +118,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000001790322898" place="above" staff="1" tstamp="1.000000">Allegro assai.</tempo>
+                        <tempo xml:id="tempo-0000001790322898" place="above" staff="1" tstamp="1.000000" midi.bpm="144">Allegro assai.</tempo>
                         <dynam xml:id="dynam-0000001574483481" place="below" staff="1" tstamp="1.000000" vgrp="40">f</dynam>
                      </measure>
                      <measure xml:id="measure-0000001746259659" n="2">
